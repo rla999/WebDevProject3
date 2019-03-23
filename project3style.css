@@ -1,0 +1,39 @@
+/* Tutorial Project 3 Style CSS | Ryan Lasher */
+
+body {
+    margin: 50px;
+    font-family: sans-serif;
+    background: bisque;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 2em;
+}
+
+h3 {
+    color: green;
+    background: lightblue;
+}
+
+address {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: 12pt;
+    line-height: 24pt;
+}
+
+blockquote {
+    background: gold;
+    width: 600px;
+    padding: 20px;
+}
+
+li {
+    text-transform: capitalize;
+    line-height: 2;
+    color: green;
+}
